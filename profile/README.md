@@ -21,7 +21,7 @@ PEREGRINE leverages the power of (Truncated Marginal) Neural Ratio Estimation (T
 - Documentation for [`swyft`](https://github.com/undark-lab/swyft) is available at: [swyft documentation](https://swyft.readthedocs.io/en/latest/).
 
 ## Contact:
-For any queries related to PEREGINRE, please feel free to contact: 
+For any queries related to PEREGRINE, please feel free to contact: 
 - [Uddipta Bhardwaj](mailto:u.bhardwaj@uva.nl)
 - [James Alvey](mailto:j.b.g.alvey@uva.nl)
 - Alternatively, please feel free to open a github issue or pull request.
