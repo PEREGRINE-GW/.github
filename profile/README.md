@@ -39,3 +39,16 @@ If you use PEREGRINE in your analysis, or find it useful, we would ask that you 
     year = "2023"
 }
 ```
+```
+@article{Miller:2022shs,
+    author = "Miller, Benjamin Kurt and Cole, Alex and Weniger, Christoph and Nattino, Francesco and Ku, Ou and Grootes, Meiert W.",
+    title = "{swyft: Truncated Marginal Neural Ratio Estimation in
+Python}",
+    doi = "10.21105/joss.04205",
+    journal = "J. Open Source Softw.",
+    volume = "7",
+    number = "75",
+    pages = "4205",
+    year = "2022"
+}
+```
