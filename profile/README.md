@@ -27,7 +27,7 @@ For any queries related to PEREGRINE, please feel free to contact:
 - Alternatively, please feel free to open a github issue or pull request.
 
 ## Usage:
-If you use PEREGRINE in your analysis, or find it useful, we would ask that you please use the following citation: 
+If you use PEREGRINE in your analysis, or find it useful, we would ask that you please use the following citations: 
 ```
 @article{Bhardwaj:2023xph,
     author = "Bhardwaj, Uddipta and Alvey, James and Miller, Benjamin Kurt and Nissanke, Samaya and Weniger, Christoph",
